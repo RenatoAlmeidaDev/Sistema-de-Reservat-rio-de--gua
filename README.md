@@ -28,4 +28,4 @@ O sistema trabalha com **cinco níveis de água**, cada um associado a uma mensa
 - Biblioteca [colorama](https://pypi.org/project/colorama/)
 
 Instalação da biblioteca:
-```from colorama import Fore, Style, init
+ - from colorama import Fore, Style, init
